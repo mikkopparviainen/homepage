@@ -98,4 +98,4 @@ I have been teaching since 2007 in the Deparment of Signal Processing at Tampere
 
 #### Curriculum Vitae
 
-[CV](cv_TENK_bib_2022-6.pdf). Please request the latest version [via email](mikkopa@gmail.com).
+[Click to view my CV](cv_TENK_bib_2022-6.pdf).
