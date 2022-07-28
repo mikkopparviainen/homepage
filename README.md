@@ -83,7 +83,7 @@ Mikko Parviainen, Pasi Pertilä, Tuomas Virtanen, and Peter Grosche. Time-freque
 
 #### Teaching
 
-I have been teaching since 2007 in the Deparment of Signal Processing at Tampere University of Technology. The students are Bachelor, Master and PhD level students. My teaching activities have focused on practical exercises including computer experiments, techinical report writing and calculus. I have also participated in developing teaching material with the persons responsible for the lectures.
+I have been teaching since 2007 in the Deparment of Signal Processing at Tampere University of Technology. The students are Bachelor, Master and PhD level students. My teaching activities have focused on practical exercises including computer experiments, techinical report writing, and calculus.
 
 ##### Topics
 
