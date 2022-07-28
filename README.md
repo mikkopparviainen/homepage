@@ -91,14 +91,11 @@ I have been teaching since 2007 in the Deparment of Signal Processing at Tampere
 *   Pattern recognition
 *   Neural Networks in Signal Processing
 
-##### Teaching Portfolio
-
-The teaching portfolio describes my view of teaching and learning, my teaching experience and has examples of teaching material I have produced. The portfolio is written in Finnish. Some of teaching material is written in English. You can download my portfolio written in Finnish [here](My/portfolio.pdf).
 
 #### Talks
 
-*   Indoor navigation seminar INTO 2016 [Event](https://intoseminar.com) , [presentation slides](My/into_slides_c.pdf)
+*   Indoor navigation seminar INTO 2016 [Event](https://intoseminar.com)
 
 #### Curriculum Vitae
 
-You can find my CV in pdf format [here](cv__my_libertine.pdf).
+Please request the latest version [via email](mikkopa@gmail.com).
